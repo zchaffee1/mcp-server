@@ -1,5 +1,7 @@
 # mcp-server
 
+By: Zack Chaffee A20478873
+
 A server implementing Model Coupling Protocol (MCP) capabilities for HDF5 file operations and Slurm job management.
 
 ## Features
